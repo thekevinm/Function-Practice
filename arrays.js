@@ -1,8 +1,8 @@
 // ---------------------------
 // The Arrays You Will Work With
 // ---------------------------
-function numbers(a, b, c, d, e, f, g, h, i, j, k) {
-	return Math.max(a, b, c, d, e, f, g, h, i, j, k);
+function numbers(a,b,c,d,e,f,g,h,i,j,k) {
+	return Math.max(a,b,c,d,e,f,g,h,i,j,k);
 }
 var numbers = [1,12,4,18,9,7,11,3,101,5,6];
 
